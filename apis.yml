@@ -1,3 +1,15 @@
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/scrum.png
 name: Scrum
 description: Scrum is an agile project management framework that organizes work into fixed-length iterations called sprints, typically lasting two to four weeks. It defines clear roles (Product Owner, Scrum Master, Developers) and ceremonies (sprint planning, daily standups, retrospectives) to enable teams to deliver value incrementally and continuously improve.
 url: https://www.scrum.org/
